@@ -34,17 +34,13 @@ def shutdown_computer():
      else:
           os.system("shutdown -h now")
 
-def on_button_click():
-     print("Button clicked")
-     user_text = entry.get()
-
 
 root = tk.Tk()
 root.title("Power Control")
 
 
 # label
-label = tk.label(root, text="Enter shutdown time (HH:MM):")
+label = tk.Label(root, text="Enter shutdown time (HH:MM):")
 label.pack(pady=20)
 label.pack(padx=20)
 
