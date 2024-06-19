@@ -56,7 +56,7 @@ Go to this link https://github.com/VinukaVilhan/Project46/releases/tag/v1.0.0 an
 ![image](https://github.com/VinukaVilhan/Project46/assets/125667311/cae585a9-7dc6-4ae4-ac62-b4caba913a49)
 
 
-### Installation of the application
+### Installation of the application in your code base
 
 1. You could install the required packages uisng the command below
 
