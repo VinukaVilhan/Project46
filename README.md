@@ -29,7 +29,8 @@ The computer could be restarted at any given time
 - WIFI Off/On Function
 The wifi adapter will be on/off acoording to a given time
 
- ![The interface of the application. Functions in order [shutdown, restart, sleep, wifi on, wifi off]](image.png)
+ ![The interface of the application. Functions in order [shutdown, restart, sleep, wifi on, wifi off]](https://github.com/VinukaVilhan/Project46/assets/125667311/bb4e9749-0cef-4428-ad40-1fff3ee8e03c)
+
 
 ### Rules
 
@@ -47,6 +48,13 @@ Ex - if restart command is executed then the time for turning wifi on or off sho
   ![image](https://github.com/VinukaVilhan/Project46/assets/125667311/30e7f7f5-fce2-4e33-a089-96b11a5a736c)
   
 3. Click on the threat and allow the app to make changes.
+
+## How to get the application and use it?
+
+Go to this link https://github.com/VinukaVilhan/Project46/releases/tag/v1.0.0 and download the `Control.exe` file and run it.
+
+![image](https://github.com/VinukaVilhan/Project46/assets/125667311/cae585a9-7dc6-4ae4-ac62-b4caba913a49)
+
 
 ### Installation of the application
 
