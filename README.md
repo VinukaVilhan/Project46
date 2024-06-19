@@ -29,7 +29,7 @@ The computer could be restarted at any given time
 - WIFI Off/On Function
 The wifi adapter will be on/off acoording to a given time
 
-![The interface of the application. Functions in order [shutdown, restart, sleep, wifi on, wifi off]](image.png)
+ ![The interface of the application. Functions in order [shutdown, restart, sleep, wifi on, wifi off]](image.png)
 
 ### Rules
 
@@ -42,6 +42,11 @@ Ex - if restart command is executed then the time for turning wifi on or off sho
 ## Important
 
 1. *WIFI* - When the wifi is turned off it turns off the wifi adapter. Do not be afraid you could easily turn it back on using the wifi turn on option. And it could be done immediately.
+2. *VIRUS* - When executing the application you will encounter messages that says this application contains viruses. It's because the application demands admin right to execute commands such as shutdown, restart, etc but there are no viruses. Please, allow the application to work in your antivirus or windows security.
+
+  ![image](https://github.com/VinukaVilhan/Project46/assets/125667311/30e7f7f5-fce2-4e33-a089-96b11a5a736c)
+  
+3. Click on the threat and allow the app to make changes.
 
 ### Installation of the application
 
