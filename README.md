@@ -8,7 +8,7 @@ This Desktop application works for windows os based devices.
 
 ### The problem I wanted to solve
 
-When downloading content from internet we use time based internet packages. Mostly, the package will be over at 8.30 in the morning. If you do not pause the downloading when the package is over your limited data from other data plans will be consumed and if you are not a morning person you probably have to wakeup and pause the download manually.
+When downloading content from internet we use time based internet packages. Mostly, the package will be over at 8.30 in the morning. If you do not pause the downloading when the package is over (at 8.30) your limited data from other data plans will be consumed and if you are not a morning person you probably have to wakeup and pause the download manually which is quite impossible to do so.
 
 ### Solution
 
