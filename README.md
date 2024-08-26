@@ -41,7 +41,9 @@ Ex - if restart command is executed then the time for turning wifi on or off sho
 
 ## Important
 
-1. *WIFI* - When the wifi is turned off it turns off the wifi adapter. Do not be afraid you could easily turn it back on using the wifi turn on option. And it could be done immediately.
+1. *WIFI* - When the wifi is turned off it turns off the wifi adapter. Do not be afraid you could easily turn it back on using the wifi turn on option. And it could be done immediately by toggling the *'Wifi on Now'* option.
+
+ ![alt text](image-1.png)
 
 ### Installation of the application
 
@@ -51,4 +53,4 @@ Ex - if restart command is executed then the time for turning wifi on or off sho
 
 2. Go the directory and execute this command to run the application
 
-    >`pyhton app.py`
+    >`python app.py`
