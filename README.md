@@ -64,5 +64,3 @@ Go to this link https://github.com/VinukaVilhan/Project46/releases/tag/v1.0.0 an
 
 2. Go to the directory and execute this command to run the application
     >`python app.py`
-
-    >`python app.py`
